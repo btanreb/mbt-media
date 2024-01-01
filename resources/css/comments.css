@@ -1,0 +1,2 @@
+.comment:not(:last-child) { margin-bottom: 20px; }
+.comment .button-delete { display: block; margin: 0 0 5px auto; }

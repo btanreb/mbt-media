@@ -1,0 +1,7 @@
+.project-logo { display: flex; align-items: center; column-gap: 15px; }
+.project-logo:not(:last-child) { margin-bottom: 20px; }
+.project-logo img { max-height: 50px; cursor: pointer; }
+.project-logo-img { max-height: 50px; }
+
+select.form-control { margin: 5px 0; }
+.select-wrapper { display: flex; align-items: center; column-gap: 20px; }
