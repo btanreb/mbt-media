@@ -28,21 +28,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 console.log($this);
                 $this.submit();
-
-                // const formLogoDestroy = document.querySelector('#destroy-logo-' + logoId);
-                // console.log(formLogoDestroy);
-
-                // formLogoDestroy.submit();
             });
 
         });
     });
 
 }, false);
-
-$('.delete-warning').click(function () {
-
-    const logoId = this.getAttribute('data-logo-id');
-
-
-});
